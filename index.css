@@ -1,5 +1,5 @@
 body{
-background-image:url('images/bg-stars.svg'), url('images/pattern-hills.svg');
+background-image:url('./images/bg-stars.svg'), url('./images/pattern-hills.svg');
 background-size:100% 100%, 100% 130%;
 background-position:0px 45% ,0px 0px;
 background-repeat:no-repeat;
